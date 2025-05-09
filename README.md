@@ -1,6 +1,6 @@
 # 🎬 Netflix Movies and TV Shows – Exploratory Data Analysis (EDA)
 
-This project explores the Netflix dataset available on Kaggle, containing details about over 8,800 titles including movies and TV shows.
+This project explores the Netflix dataset available on Kaggle, which contains details about over 8,800 titles, including movies and TV shows.
 
 ## 📌 Project Overview
 
@@ -41,8 +41,8 @@ The goal of this project is to:
 
 ## 📬 Connect With Me
 
-- [LinkedIn](https://www.https://www.linkedin.com/in/akash-karale/)
-- [GitHub](https://https://github.com/akashkarale-255)
+- [LinkedIn](https://www.linkedin.com/in/akash-karale/)
+- [GitHub](https://github.com/akashkarale-255)
 
 ---
 
